@@ -3794,3 +3794,360 @@ Script Stack (0 frames):
 [2020.02.28-20.00.49:309][452]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
 [2020.02.28-20.00.49:337][453]LogPlayLevel: Display: Destroying online subsystem :Context_51
 [2020.02.28-20.00.56:068][793]Cmd: SELECT NONE
+[2020.02.28-20.05.33:029][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.02.28-20.05.33:196][ 20]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/L_Test_Auto6D905279349EEC56425BF9586E801DF75.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/Autosaves/Game/Levels/L_Test_Auto6.umap'
+[2020.02.28-20.05.33:198][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/L_Test' took 0.219
+[2020.02.28-20.05.33:198][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.219
+[2020.02.28-20.06.02:852][ 18]LogStaticMesh: Building static mesh char_ship_001...
+[2020.02.28-20.06.03:388][ 18]LogStaticMesh: Built static mesh [0.57s] /Game/Meshes/ship/char_ship_001.char_ship_001
+[2020.02.28-20.06.03:787][ 18]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/ship/char_ship_001.char_ship_001
+[2020.02.28-20.06.12:828][278]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_1_MT.uasset' failed to load '/Game/scifi_kitbash/textures/T_plane_N': Can't find file.
+[2020.02.28-20.06.12:829][278]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_1_MT.uasset' failed to load '/Game/scifi_kitbash/textures/T_plane_N': Can't find file.
+[2020.02.28-20.06.12:829][278]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_1_MT.uasset' failed to load '/Game/scifi_kitbash/textures/T_plane_N': Can't find file.
+[2020.02.28-20.06.12:829][278]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_1_MT.uasset' failed to load '/Game/scifi_kitbash/textures/T_plane_N': Can't find file.
+[2020.02.28-20.06.12:829][278]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_1_MT.uasset' failed to load '/Game/scifi_kitbash/textures/T_plane_N': Can't find file.
+[2020.02.28-20.06.12:830][278]LoadErrors: Failed to load /Game/scifi_kitbash/textures/T_plane_N.T_plane_N Referenced by MaterialExpressionTextureSample_3
+[2020.02.28-20.06.12:830][278]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_1_MT.uasset' failed to load '/Game/scifi_kitbash/textures/T_plane_N': Can't find file.
+[2020.02.28-20.06.13:277][278]LogMaterial: Display: Missing cached shader map for material char_ship_001_1_mt, compiling. 
+[2020.02.28-20.06.13:372][278]LogMaterial: Warning: D:\MyProjects\ArcadeBattleRoyale\ArcadeBattleRoyale\ArcadeBattleRoyale\Content\Meshes\ship\Char_ship_001_1_MT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.28-20.06.13:372][278]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.02.28-20.06.20:607][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/materials/M_Wall01': Can't find file.
+[2020.02.28-20.06.20:607][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/materials/M_Wall01': Can't find file.
+[2020.02.28-20.06.20:607][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/materials/M_Wall01': Can't find file.
+[2020.02.28-20.06.20:607][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/materials/M_Wall01': Can't find file.
+[2020.02.28-20.06.20:608][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/Char_ship_001_AO': Can't find file.
+[2020.02.28-20.06.20:608][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/Char_ship_001_AO': Can't find file.
+[2020.02.28-20.06.20:608][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_Color': Can't find file.
+[2020.02.28-20.06.20:608][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_Color': Can't find file.
+[2020.02.28-20.06.20:608][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_mt': Can't find file.
+[2020.02.28-20.06.20:608][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_mt': Can't find file.
+[2020.02.28-20.06.20:609][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_n': Can't find file.
+[2020.02.28-20.06.20:609][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_n': Can't find file.
+[2020.02.28-20.06.20:609][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_r': Can't find file.
+[2020.02.28-20.06.20:609][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_r': Can't find file.
+[2020.02.28-20.06.20:609][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/Char_ship_001_AO': Can't find file.
+[2020.02.28-20.06.20:609][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/Char_ship_001_AO': Can't find file.
+[2020.02.28-20.06.20:609][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_Color': Can't find file.
+[2020.02.28-20.06.20:609][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_Color': Can't find file.
+[2020.02.28-20.06.20:609][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_mt': Can't find file.
+[2020.02.28-20.06.20:609][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_mt': Can't find file.
+[2020.02.28-20.06.20:610][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_n': Can't find file.
+[2020.02.28-20.06.20:610][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_n': Can't find file.
+[2020.02.28-20.06.20:610][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_r': Can't find file.
+[2020.02.28-20.06.20:610][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_r': Can't find file.
+[2020.02.28-20.06.20:632][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/materials/M_Wall01': Can't find file.
+[2020.02.28-20.06.20:633][535]LoadErrors: Failed to load /Game/scifi_kitbash/materials/M_Wall01.M_Wall01 Referenced by char_ship_001_mt
+[2020.02.28-20.06.20:633][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/materials/M_Wall01': Can't find file.
+[2020.02.28-20.06.20:633][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_Color': Can't find file.
+[2020.02.28-20.06.20:633][535]LoadErrors: Failed to load /Game/scifi_kitbash/ship/tex/char_ship_001_Color.char_ship_001_color Referenced by char_ship_001_mt
+[2020.02.28-20.06.20:633][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_Color': Can't find file.
+[2020.02.28-20.06.20:633][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/Char_ship_001_AO': Can't find file.
+[2020.02.28-20.06.20:633][535]LoadErrors: Failed to load /Game/scifi_kitbash/ship/tex/Char_ship_001_AO.char_ship_001_ao Referenced by char_ship_001_mt
+[2020.02.28-20.06.20:633][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/Char_ship_001_AO': Can't find file.
+[2020.02.28-20.06.20:633][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_mt': Can't find file.
+[2020.02.28-20.06.20:633][535]LoadErrors: Failed to load /Game/scifi_kitbash/ship/tex/char_ship_001_mt.char_ship_001_mt Referenced by char_ship_001_mt
+[2020.02.28-20.06.20:634][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_mt': Can't find file.
+[2020.02.28-20.06.20:634][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_n': Can't find file.
+[2020.02.28-20.06.20:634][535]LoadErrors: Failed to load /Game/scifi_kitbash/ship/tex/char_ship_001_n.char_ship_001_n Referenced by char_ship_001_mt
+[2020.02.28-20.06.20:634][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_n': Can't find file.
+[2020.02.28-20.06.20:634][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_r': Can't find file.
+[2020.02.28-20.06.20:634][535]LoadErrors: Failed to load /Game/scifi_kitbash/ship/tex/char_ship_001_r.char_ship_001_r Referenced by char_ship_001_mt
+[2020.02.28-20.06.20:634][535]LogLinker: Warning: While loading '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset' failed to load '/Game/scifi_kitbash/ship/tex/char_ship_001_r': Can't find file.
+[2020.02.28-20.06.27:583][747]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Meshes/ship/Char_ship_001_1_MT.char_ship_001_1_mt
+[2020.02.28-20.06.27:710][747]LogMaterial: Display: Missing cached shader map for material char_ship_001_1_mt, compiling. 
+[2020.02.28-20.06.27:711][747]LogMaterial: Warning: /Engine/Transient.char_ship_001_1_mt (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.28-20.06.27:711][747]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.02.28-20.06.28:480][747]LogMaterial: Display: Missing cached shader map for material char_ship_001_1_mt, compiling. 
+[2020.02.28-20.06.28:481][747]LogMaterial: Warning: /Engine/Transient.char_ship_001_1_mt (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.02.28-20.06.28:481][747]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.02.28-20.06.28:523][747]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2020.02.28-20.06.28:763][747]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.28-20.06.28:763][747]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.28-20.06.28:763][747]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.28-20.06.28:763][747]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.28-20.06.28:763][747]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2020.02.28-20.06.28:820][747]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.02.28-20.06.28:826][747]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_2, compiling. 
+[2020.02.28-20.06.28:932][747]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2020.02.28-20.06.34:672][882]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.02.28-20.06.34:774][885]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.28-20.06.34:774][885]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.28-20.06.35:137][886]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.28-20.06.35:217][887]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.02.28-20.06.35:235][888]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.02.28-20.06.35:270][888]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.28-20.06.35:582][890]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.28-20.06.50:889][424]LogTexture: Display: Building textures: char_ship_001_n (BC5, 2048X4096)
+[2020.02.28-20.06.53:184][494]LogMaterial: Display: Missing cached shader map for material char_ship_001_1_mt, compiling. 
+[2020.02.28-20.06.53:493][494]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.02.28-20.06.53:493][494]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.02.28-20.06.53:493][494]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.02.28-20.06.53:493][494]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.02.28-20.06.53:493][494]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.02.28-20.06.53:618][494]LogMaterial: Display: Missing cached shader map for material char_ship_001_1_mt, compiling. 
+[2020.02.28-20.06.53:984][497]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2020.02.28-20.06.54:273][509]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.02.28-20.06.54:285][510]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.02.28-20.06.54:285][510]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.02.28-20.06.55:522][547]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.02.28-20.06.55:554][548]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.02.28-20.06.55:661][553]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.02.28-20.06.55:673][553]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.02.28-20.06.55:858][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.02.28-20.06.55:858][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.02.28-20.06.55:883][554]LogMaterialEditor: Applying material char_ship_001_1_mt
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.28-20.07.06:561][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.28-20.07.06:581][554]LogMaterial: Display: Missing cached shader map for material char_ship_001_1_mt, compiling. 
+[2020.02.28-20.07.07:195][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.02.28-20.07.07:195][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.02.28-20.07.07:195][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.02.28-20.07.07:195][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.02.28-20.07.07:195][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.02.28-20.07.07:195][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.02.28-20.07.07:195][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.02.28-20.07.07:195][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.02.28-20.07.07:195][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.02.28-20.07.07:195][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.02.28-20.07.07:334][554]LogMaterial: Display: Missing cached shader map for material char_ship_001_1_mt, compiling. 
+[2020.02.28-20.07.09:839][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 61
+[2020.02.28-20.07.09:839][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2020.02.28-20.07.09:840][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 59
+[2020.02.28-20.07.09:840][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 58
+[2020.02.28-20.07.09:840][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 57
+[2020.02.28-20.07.09:840][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2020.02.28-20.07.09:840][554]LogUObjectHash: Compacting FUObjectHashTables data took  24.90ms
+[2020.02.28-20.07.09:936][554]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 55
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 53
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 49
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 47
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2020.02.28-20.07.12:868][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2020.02.28-20.07.12:887][554]TextureStreamingBuild: Display: Compiling optional shaders took 3.007 seconds.
+[2020.02.28-20.07.14:732][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.02.28-20.07.14:733][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.02.28-20.07.14:733][554]LogUObjectHash: Compacting FUObjectHashTables data took  43.28ms
+[2020.02.28-20.07.19:767][682]LogMaterialEditor: Saving and Compiling material char_ship_001_1_mt
+[2020.02.28-20.07.26:248][682]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.02.28-20.07.26:248][682]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.02.28-20.07.26:248][682]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.07.26:248][682]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.28-20.07.26:248][682]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.28-20.07.26:248][682]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.28-20.07.26:248][682]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.28-20.07.26:354][682]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/Char_ship_001_1_MT5FE590F2422D54EE00910A9EC5E8CE14.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_1_MT.uasset'
+[2020.02.28-20.07.26:427][682]AssetCheck: New page: Asset Save: char_ship_001_1_mt
+[2020.02.28-20.07.26:427][682]LogContentValidation: Display: Validating Material /Game/Meshes/ship/Char_ship_001_1_MT.char_ship_001_1_mt
+[2020.02.28-20.07.26:469][682]MaterialEditorStats: Base pass shader: 56 instructions
+[2020.02.28-20.07.26:469][682]MaterialEditorStats: Base pass shader with Surface Lightmap: 101 instructions
+[2020.02.28-20.07.26:469][682]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 148 instructions
+[2020.02.28-20.07.26:469][682]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.02.28-20.07.26:469][682]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.28-20.07.26:469][682]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.07.26:470][682]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.28-20.07.47:143][322]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Meshes/ship/Char_ship_001_MT.char_ship_001_mt
+[2020.02.28-20.08.28:636][962]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.02.28-20.08.28:658][962]TextureStreamingBuild: Display: Compiling optional shaders took 0.016 seconds.
+[2020.02.28-20.08.28:731][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.02.28-20.08.28:753][962]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/Char_ship_001_MT176743294C13D5FA1228F3BBD4EA8BCF.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset'
+[2020.02.28-20.08.28:794][962]AssetCheck: New page: Asset Save: char_ship_001_mt
+[2020.02.28-20.08.28:794][962]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/ship/Char_ship_001_MT.char_ship_001_mt
+[2020.02.28-20.08.33:142][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.02.28-20.08.33:258][153]TextureStreamingBuild: Display: Compiling optional shaders took 0.072 seconds.
+[2020.02.28-20.08.33:339][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.28-20.08.33:367][153]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/Char_ship_001_MTB54F81754FD13C2B70506F8B706F95D5.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/Char_ship_001_MT.uasset'
+[2020.02.28-20.08.33:382][153]AssetCheck: New page: Asset Save: char_ship_001_mt
+[2020.02.28-20.08.33:382][153]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Meshes/ship/Char_ship_001_MT.char_ship_001_mt
+[2020.02.28-20.09.23:056][478]LogRenderer: Reallocating scene render targets to support 1540x880 Format 10 NumSamples 1 (Frame:4492).
+[2020.02.28-20.10.11:265][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.02.28-20.10.11:297][722]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/L_Test9FC688034CB80EB32539D5929EAD90B5.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Levels/L_Test.umap'
+[2020.02.28-20.10.11:343][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/L_Test_BuiltData" FILE="../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Levels/L_Test_BuiltData.uasset" SILENT=true
+[2020.02.28-20.10.11:414][722]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/L_Test_BuiltDataEBCEA2D54B2BC151FADD0AAB69B2A656.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Levels/L_Test_BuiltData.uasset'
+[2020.02.28-20.10.11:494][722]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.28-20.10.11:494][722]LogContentValidation: Display: Validating World /Game/Levels/L_Test.L_Test
+[2020.02.28-20.10.11:494][722]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/L_Test_BuiltData.L_Test_BuiltData
+[2020.02.28-20.10.19:870][979]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.10.19:870][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.10.20:521][995]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.10.20:521][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.10.22:064][ 40]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/char_ship_001914BC1B14CBDFA792C513197BADE1153.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/char_ship_001.uasset'
+[2020.02.28-20.10.22:124][ 40]AssetCheck: New page: Asset Save: char_ship_001
+[2020.02.28-20.10.22:124][ 40]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/ship/char_ship_001.char_ship_001
+[2020.02.28-20.10.22:897][ 64]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.10.22:897][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.10.24:871][175]BlueprintLog: New page: Compile BP_Player_Fly
+[2020.02.28-20.10.25:316][175]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2020.02.28-20.10.25:824][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player_Fly" FILE="../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_Player_Fly.uasset" SILENT=true
+[2020.02.28-20.10.25:980][199]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/BP_Player_Fly44A24C614E9CD176D93F0C8C9FC14076.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_Player_Fly.uasset'
+[2020.02.28-20.10.25:996][199]AssetCheck: New page: Asset Save: BP_Player_Fly
+[2020.02.28-20.10.25:996][199]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player_Fly.BP_Player_Fly
+[2020.02.28-20.10.51:311][503]BlueprintLog: New page: Compile BP_Player_Fly
+[2020.02.28-20.10.51:698][503]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2020.02.28-20.10.52:138][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player_Fly" FILE="../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_Player_Fly.uasset" SILENT=true
+[2020.02.28-20.10.52:165][515]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/BP_Player_Fly26DB7C8F4BFF2EE962B356BC8C5E5B96.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_Player_Fly.uasset'
+[2020.02.28-20.10.52:180][515]AssetCheck: New page: Asset Save: BP_Player_Fly
+[2020.02.28-20.10.52:180][515]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player_Fly.BP_Player_Fly
+[2020.02.28-20.10.54:787][644]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/ship/char_ship_001.char_ship_001
+[2020.02.28-20.11.15:153][543]LogStaticMesh: Building static mesh char_ship_001...
+[2020.02.28-20.11.15:433][543]LogStaticMesh: Built static mesh [0.28s] /Game/Meshes/ship/char_ship_001.char_ship_001
+[2020.02.28-20.11.56:393][ 57]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/char_ship_0010DD9A36745BD5B60C3DA0A879CA02111.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/char_ship_001.uasset'
+[2020.02.28-20.11.56:411][ 57]AssetCheck: New page: Asset Save: char_ship_001
+[2020.02.28-20.11.56:411][ 57]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/ship/char_ship_001.char_ship_001
+[2020.02.28-20.11.57:496][112]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/char_ship_001F910DD984DE2E6AFEEF1F39A8BAE9F9D.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/char_ship_001.uasset'
+[2020.02.28-20.11.57:511][112]AssetCheck: New page: Asset Save: char_ship_001
+[2020.02.28-20.11.57:511][112]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/ship/char_ship_001.char_ship_001
+[2020.02.28-20.12.08:348][410]BlueprintLog: New page: Compile BP_Player_Fly
+[2020.02.28-20.12.08:697][410]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2020.02.28-20.12.09:207][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player_Fly" FILE="../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_Player_Fly.uasset" SILENT=true
+[2020.02.28-20.12.09:235][419]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/BP_Player_Fly321EB75C4527DAF6D8DA70BEF1DC626E.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_Player_Fly.uasset'
+[2020.02.28-20.12.09:252][419]AssetCheck: New page: Asset Save: BP_Player_Fly
+[2020.02.28-20.12.09:252][419]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player_Fly.BP_Player_Fly
+[2020.02.28-20.12.10:904][474]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-20.12.10:941][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-20.12.10:942][474]PIE: New page: PIE session: L_Test (28.02.2020, 22:12:10)
+[2020.02.28-20.12.10:942][474]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_Test
+[2020.02.28-20.12.10:946][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002859s)
+[2020.02.28-20.12.10:947][474]LogAIModule: Creating AISystem for world L_Test
+[2020.02.28-20.12.10:947][474]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2020.02.28-20.12.10:947][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Test.L_Test to /Game/Levels/UEDPIE_0_L_Test.L_Test (0.004350s)
+[2020.02.28-20.12.11:005][474]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.02.28-20.12.11:048][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.28-20.12.11:048][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.28-20.12.11:048][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.28-20.12.11:048][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.28-20.12.11:048][474]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.28-20.12.11:048][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.28-20.12.11:048][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.28-20.12.11:048][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.28-20.12.11:048][474]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.28-20.12.11:048][474]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.28-20.12.11:051][474]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.28-20.12.11:051][474]LogAudioMixer: Display: Name: Lautsprecher (Realtek High Definition Audio)
+[2020.02.28-20.12.11:051][474]LogAudioMixer: Display: Is Default: Yes
+[2020.02.28-20.12.11:051][474]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.28-20.12.11:051][474]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.28-20.12.11:051][474]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.28-20.12.11:051][474]LogAudioMixer: Display: Channel Order:
+[2020.02.28-20.12.11:051][474]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.28-20.12.11:051][474]LogAudioMixer: Display: 1: FrontRight
+[2020.02.28-20.12.11:068][474]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek High Definition Audio)
+[2020.02.28-20.12.11:069][474]LogInit: FAudioDevice initialized.
+[2020.02.28-20.12.11:100][474]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.28-20.12.11:101][474]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_Test.L_Test up for play (max tick rate 0) at 2020.02.28-21.12.11
+[2020.02.28-20.12.11:101][474]LogWorld: Bringing up level for play took: 0.000588
+[2020.02.28-20.12.11:102][474]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2020.02.28-20.12.11:104][474]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2020.02.28-20.12.11:129][474]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.12.11:129][474]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.12.11:129][474]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.12.11:130][474]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.12.11:130][474]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.12.11:130][474]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_L_Test 0,068
+[2020.02.28-20.12.14:447][732]Cmd: LevelEditor.ToggleImmersive
+[2020.02.28-20.12.21:618][107]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-20.12.21:627][107]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.28-20.12.21:656][107]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.28-20.12.21:657][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-20.12.21:657][107]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_Test
+[2020.02.28-20.12.21:657][107]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-20.12.21:657][107]LogWorld: UWorld::CleanupWorld for L_Test, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.12.21:658][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.12.21:679][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-20.12.21:687][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.12.21:743][107]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-20.12.21:747][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-20.12.21:753][107]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.02.28-20.12.21:760][107]LogRenderer: Reallocating scene render targets to support 1924x1036 Format 10 NumSamples 1 (Frame:62301).
+[2020.02.28-20.12.21:793][108]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2020.02.28-20.12.31:247][258]BlueprintLog: New page: Compile BP_Player_Fly
+[2020.02.28-20.12.31:603][258]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.02.28-20.12.32:195][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player_Fly" FILE="../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_Player_Fly.uasset" SILENT=true
+[2020.02.28-20.12.32:229][263]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/BP_Player_Fly507FB172419F1331233CB08472A5FF42.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_Player_Fly.uasset'
+[2020.02.28-20.12.32:248][263]AssetCheck: New page: Asset Save: BP_Player_Fly
+[2020.02.28-20.12.32:248][263]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player_Fly.BP_Player_Fly
+[2020.02.28-20.12.33:782][301]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-20.12.33:813][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-20.12.33:813][301]PIE: New page: PIE session: L_Test (28.02.2020, 22:12:33)
+[2020.02.28-20.12.33:813][301]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_Test
+[2020.02.28-20.12.33:815][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002041s)
+[2020.02.28-20.12.33:816][301]LogAIModule: Creating AISystem for world L_Test
+[2020.02.28-20.12.33:817][301]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2020.02.28-20.12.33:817][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Test.L_Test to /Game/Levels/UEDPIE_0_L_Test.L_Test (0.003273s)
+[2020.02.28-20.12.33:881][301]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2020.02.28-20.12.33:882][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.28-20.12.33:882][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.28-20.12.33:882][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.28-20.12.33:882][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.28-20.12.33:882][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.28-20.12.33:882][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.28-20.12.33:882][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.28-20.12.33:882][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.28-20.12.33:882][301]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.28-20.12.33:882][301]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.28-20.12.33:885][301]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.28-20.12.33:885][301]LogAudioMixer: Display: Name: Lautsprecher (Realtek High Definition Audio)
+[2020.02.28-20.12.33:885][301]LogAudioMixer: Display: Is Default: Yes
+[2020.02.28-20.12.33:885][301]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.28-20.12.33:885][301]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.28-20.12.33:885][301]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.28-20.12.33:885][301]LogAudioMixer: Display: Channel Order:
+[2020.02.28-20.12.33:885][301]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.28-20.12.33:885][301]LogAudioMixer: Display: 1: FrontRight
+[2020.02.28-20.12.33:926][301]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek High Definition Audio)
+[2020.02.28-20.12.33:928][301]LogInit: FAudioDevice initialized.
+[2020.02.28-20.12.33:938][301]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.28-20.12.33:939][301]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_Test.L_Test up for play (max tick rate 0) at 2020.02.28-21.12.33
+[2020.02.28-20.12.33:939][301]LogWorld: Bringing up level for play took: 0.000612
+[2020.02.28-20.12.33:940][301]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.02.28-20.12.33:942][301]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2020.02.28-20.12.33:947][301]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.12.33:947][301]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.12.33:947][301]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.12.33:948][301]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.12.33:948][301]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.12.33:948][301]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_L_Test 0,885
+[2020.02.28-20.12.35:681][412]Cmd: LevelEditor.ToggleImmersive
+[2020.02.28-20.13.11:015][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-20.13.11:027][ 27]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.28-20.13.11:047][ 27]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.28-20.13.11:048][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-20.13.11:048][ 27]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_Test
+[2020.02.28-20.13.11:048][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-20.13.11:048][ 27]LogWorld: UWorld::CleanupWorld for L_Test, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.13.11:048][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.13.11:077][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-20.13.11:086][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.13.11:135][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-20.13.11:147][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-20.13.11:153][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.02.28-20.13.11:185][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.02.28-20.13.23:183][304]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/char_ship_0016B1FE89349AA48AF8D112A99C2D3CAD9.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/char_ship_001.uasset'
+[2020.02.28-20.13.23:201][304]AssetCheck: New page: Asset Save: char_ship_001
+[2020.02.28-20.13.23:201][304]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/ship/char_ship_001.char_ship_001
