@@ -4151,3 +4151,692 @@ Script Stack (0 frames):
 [2020.02.28-20.13.23:183][304]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/char_ship_0016B1FE89349AA48AF8D112A99C2D3CAD9.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Meshes/ship/char_ship_001.uasset'
 [2020.02.28-20.13.23:201][304]AssetCheck: New page: Asset Save: char_ship_001
 [2020.02.28-20.13.23:201][304]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/ship/char_ship_001.char_ship_001
+[2020.02.28-20.15.15:530][873]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.15.15:530][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.15.21:307][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.28-20.15.21:307][248]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.15.21:307][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.16.20:613][ 90]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.28-20.16.20:614][ 90]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.16.20:614][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.16.27:485][182]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.28-20.16.27:485][182]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.16.27:485][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.18.04:375][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-20.18.04:529][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-20.18.04:529][ 66]PIE: New page: PIE session: L_Test (28.02.2020, 22:18:04)
+[2020.02.28-20.18.04:529][ 66]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_Test
+[2020.02.28-20.18.04:532][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002363s)
+[2020.02.28-20.18.04:549][ 66]LogAIModule: Creating AISystem for world L_Test
+[2020.02.28-20.18.04:549][ 66]LogPlayLevel: PIE: World Init took: (0.017032s)
+[2020.02.28-20.18.04:549][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Test.L_Test to /Game/Levels/UEDPIE_0_L_Test.L_Test (0.019521s)
+[2020.02.28-20.18.07:961][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.02.28-20.18.08:560][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.28-20.18.08:560][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.28-20.18.08:560][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.28-20.18.08:560][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.28-20.18.08:560][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.28-20.18.08:560][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.28-20.18.08:560][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.28-20.18.08:560][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.28-20.18.08:560][ 66]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.28-20.18.08:560][ 66]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.28-20.18.08:563][ 66]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.28-20.18.08:563][ 66]LogAudioMixer: Display: Name: Lautsprecher (Realtek High Definition Audio)
+[2020.02.28-20.18.08:563][ 66]LogAudioMixer: Display: Is Default: Yes
+[2020.02.28-20.18.08:563][ 66]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.28-20.18.08:563][ 66]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.28-20.18.08:563][ 66]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.28-20.18.08:563][ 66]LogAudioMixer: Display: Channel Order:
+[2020.02.28-20.18.08:563][ 66]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.28-20.18.08:563][ 66]LogAudioMixer: Display: 1: FrontRight
+[2020.02.28-20.18.08:579][ 66]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek High Definition Audio)
+[2020.02.28-20.18.08:664][ 66]LogInit: FAudioDevice initialized.
+[2020.02.28-20.18.08:687][ 66]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.28-20.18.08:688][ 66]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_Test.L_Test up for play (max tick rate 0) at 2020.02.28-21.18.08
+[2020.02.28-20.18.08:689][ 66]LogWorld: Bringing up level for play took: 0.000559
+[2020.02.28-20.18.08:689][ 66]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.02.28-20.18.08:691][ 66]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2020.02.28-20.18.08:695][ 66]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.18.08:695][ 66]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.18.08:696][ 66]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.18.08:696][ 66]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.18.08:696][ 66]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.18.08:696][ 66]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_L_Test 3,634
+[2020.02.28-20.18.20:707][ 53]Cmd: LevelEditor.ToggleImmersive
+[2020.02.28-20.18.44:836][114]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-20.18.44:845][114]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.28-20.18.44:864][114]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.28-20.18.44:865][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-20.18.44:865][114]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_Test
+[2020.02.28-20.18.44:865][114]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-20.18.44:865][114]LogWorld: UWorld::CleanupWorld for L_Test, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.18.44:865][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.18.44:894][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-20.18.44:899][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.18.44:966][114]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-20.18.44:970][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-20.18.44:977][114]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.02.28-20.18.45:205][115]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.02.28-20.18.56:895][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.28-20.18.57:198][178]Cmd: SELECT NONE
+[2020.02.28-20.21.22:265][923]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/TestMaterials/M_TestGround.M_TestGround
+[2020.02.28-20.21.22:309][923]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.21.22:479][923]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.21.22:501][923]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.21.22:526][923]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.21.22:527][923]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.21.22:527][923]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.21.22:527][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.21.24:490][949]LogSlate: Window 'M_TestGround' being destroyed
+[2020.02.28-20.21.26:506][ 78]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.28-20.21.27:310][112]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.02.28-20.21.27:310][112]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.02.28-20.21.27:366][115]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.28-20.21.27:987][137]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.28-20.21.28:732][163]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.02.28-20.21.28:732][163]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.02.28-20.21.28:732][163]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.28-20.21.28:732][163]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.28-20.21.37:836][787]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.21.37:866][787]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.28-20.21.37:881][787]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.21.37:882][787]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.21.37:882][787]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.21.37:882][787]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.21.37:890][787]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.28-20.21.38:651][813]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.28-20.21.39:199][837]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.28-20.21.39:334][845]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.28-20.21.39:334][845]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.21.40:115][882]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.28-20.21.40:163][884]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.28-20.21.40:517][903]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.28-20.21.40:629][908]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.28-20.21.40:939][923]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.28-20.21.40:973][924]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.02.28-20.21.40:974][924]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.02.28-20.21.40:974][924]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.28-20.21.40:974][924]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.28-20.21.45:770][332]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.21.45:812][333]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.21.45:812][333]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.21.45:812][333]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.21.45:812][333]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.21.46:859][388]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.28-20.21.47:530][413]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.21.47:548][413]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.21.47:549][413]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.21.47:549][413]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.28-20.21.47:577][413]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.28-20.21.48:123][435]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.28-20.21.48:418][447]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.28-20.21.49:097][479]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.28-20.21.49:340][493]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.28-20.21.49:564][505]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.28-20.21.50:007][529]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.28-20.21.50:025][530]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.28-20.21.50:654][562]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.28-20.21.50:907][576]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.28-20.21.50:942][578]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.28-20.21.50:970][579]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.02.28-20.21.50:970][579]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.02.28-20.21.50:970][579]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.28-20.21.50:970][579]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.28-20.21.51:276][595]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.21.51:299][595]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.28-20.21.51:641][595]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.21.51:656][595]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.21.51:656][595]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.21.51:656][595]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.21.52:114][610]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.21.52:485][626]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.28-20.21.53:042][651]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.28-20.21.53:214][652]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.28-20.21.53:223][652]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.21.53:420][658]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.28-20.21.53:765][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.28-20.21.53:861][677]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.21.54:212][679]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.21.54:228][679]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.02.28-20.21.54:248][679]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.28-20.21.54:323][683]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.02.28-20.21.54:338][683]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.02.28-20.21.54:789][702]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.02.28-20.21.55:198][720]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.28-20.21.55:747][745]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.21.55:894][751]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.28-20.21.56:319][768]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.02.28-20.21.56:579][779]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.02.28-20.21.56:746][787]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.28-20.21.57:090][803]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.28-20.21.57:451][818]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.28-20.21.57:620][826]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.28-20.21.57:705][829]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.02.28-20.21.57:705][829]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.02.28-20.21.57:705][829]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.28-20.21.57:705][829]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.28-20.21.57:705][829]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.22.05:884][577]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.05:903][577]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.05:922][578]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.22.05:922][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.22.05:922][578]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.22.05:922][578]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.22.06:838][623]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.28-20.22.07:459][652]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.28-20.22.07:481][653]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.02.28-20.22.07:540][656]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.28-20.22.08:357][698]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.28-20.22.09:119][744]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.02.28-20.22.09:119][744]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.02.28-20.22.09:119][744]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.28-20.22.09:119][744]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.28-20.22.09:119][744]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.22.09:681][798]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.09:707][800]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.22.09:707][800]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.22.09:707][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.22.09:707][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.22.10:583][845]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.28-20.22.11:189][878]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.28-20.22.11:249][881]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.28-20.22.11:268][882]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.28-20.22.12:105][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.28-20.22.12:763][964]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.02.28-20.22.12:763][964]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.02.28-20.22.12:763][964]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.28-20.22.12:763][964]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.28-20.22.12:763][964]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.22.15:539][221]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.15:558][221]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.22.15:559][221]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.22.15:559][221]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.22.15:559][221]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.22.15:580][221]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.28-20.22.16:415][252]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.28-20.22.16:986][278]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.28-20.22.17:047][281]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.28-20.22.17:126][285]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.22.17:891][322]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.28-20.22.18:176][338]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.28-20.22.18:326][346]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.28-20.22.18:590][362]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.28-20.22.18:745][370]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.28-20.22.18:774][371]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.02.28-20.22.18:774][371]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.02.28-20.22.18:774][371]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.28-20.22.18:774][371]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.28-20.22.18:774][371]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.22.18:774][371]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.28-20.22.29:200][295]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.29:233][296]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.22.29:233][296]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.22.29:233][296]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.22.29:233][296]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.22.30:159][328]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.28-20.22.30:553][342]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.30:599][342]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.28-20.22.30:644][343]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.02.28-20.22.30:730][346]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.02.28-20.22.30:763][347]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.28-20.22.31:547][380]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.28-20.22.31:677][386]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.02.28-20.22.32:079][407]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.28-20.22.32:345][419]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.28-20.22.32:955][450]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.02.28-20.22.33:048][455]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.28-20.22.33:302][470]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.02.28-20.22.33:544][482]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.28-20.22.33:861][497]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.28-20.22.34:245][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.28-20.22.34:330][517]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.02.28-20.22.34:330][517]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.02.28-20.22.34:330][517]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.28-20.22.34:330][517]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.28-20.22.34:330][517]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.22.34:408][519]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.34:429][519]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.02.28-20.22.34:439][519]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.34:503][522]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.28-20.22.34:571][524]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.02.28-20.22.34:925][543]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.02.28-20.22.35:470][567]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.35:569][567]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.35:680][571]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.22.35:792][576]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.22.35:892][582]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.28-20.22.35:964][586]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.28-20.22.36:799][624]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.28-20.22.37:176][642]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.28-20.22.37:462][657]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.02.28-20.22.37:542][661]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.28-20.22.37:988][682]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.28-20.22.38:255][693]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.38:301][694]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.28-20.22.38:658][713]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.02.28-20.22.38:798][720]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.02.28-20.22.38:902][726]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.28-20.22.39:634][760]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.28-20.22.39:773][768]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.28-20.22.40:103][787]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.02.28-20.22.40:327][798]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.28-20.22.40:635][813]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.28-20.22.41:562][860]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.02.28-20.22.41:562][860]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.02.28-20.22.41:562][860]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.28-20.22.41:562][860]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.28-20.22.41:562][860]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.22.47:651][433]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.47:701][433]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.47:735][434]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.22.47:735][434]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.22.47:735][434]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.22.47:735][434]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.22.48:598][475]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.28-20.22.49:160][503]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.28-20.22.49:178][503]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.49:253][503]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.49:270][503]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.02.28-20.22.49:270][503]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.28-20.22.49:954][536]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.02.28-20.22.50:128][543]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.28-20.22.50:787][574]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.02.28-20.22.50:856][578]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.28-20.22.50:900][580]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.28-20.22.51:447][608]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.51:503][609]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.28-20.22.51:729][620]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.28-20.22.52:069][639]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.28-20.22.52:240][647]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.28-20.22.52:941][682]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.28-20.22.52:960][683]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.28-20.22.53:211][698]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.02.28-20.22.53:665][721]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.28-20.22.53:799][728]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.28-20.22.54:765][786]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.02.28-20.22.54:765][786]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.02.28-20.22.54:765][786]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.28-20.22.54:765][786]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.28-20.22.54:765][786]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.22.58:062][104]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.22.58:086][104]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.28-20.22.58:211][105]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.22.58:211][105]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.22.58:211][105]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.22.58:211][105]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.22.58:941][133]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.28-20.22.59:605][159]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.28-20.22.59:804][166]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.28-20.22.59:830][167]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.23.01:049][197]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.28-20.23.01:147][199]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.28-20.23.01:456][209]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.28-20.23.01:658][214]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.28-20.23.02:158][226]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.28-20.23.02:215][227]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.02.28-20.23.02:215][227]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.02.28-20.23.02:215][227]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.28-20.23.02:215][227]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.28-20.23.02:215][227]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.23.02:215][227]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.28-20.23.23:346][313]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.02.28-20.23.23:360][313]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/L_Test' took 0.044
+[2020.02.28-20.23.23:360][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/TestMaterials/M_TestGround] ([1] browsable assets)...
+[2020.02.28-20.23.23:407][313]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/TestMaterials/M_TestGround.M_TestGround]
+[2020.02.28-20.23.23:407][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/TestMaterials/M_TestGround]
+[2020.02.28-20.23.23:477][313]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/M_TestGround_Auto7B9C687864B1F58C7714F54B7E781661F.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/Autosaves/Game/Materials/TestMaterials/M_TestGround_Auto7.uasset'
+[2020.02.28-20.23.23:478][313]LogFileHelpers: Auto-saving content packages took 0.118
+[2020.02.28-20.23.29:232][595]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.23.29:267][596]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.23.29:267][596]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.23.29:267][596]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.23.29:267][596]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.23.30:428][651]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.28-20.23.31:170][679]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.28-20.23.31:188][680]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.28-20.23.31:294][685]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.28-20.23.32:094][716]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.28-20.23.32:840][753]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.02.28-20.23.32:840][753]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.02.28-20.23.32:840][753]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.28-20.23.32:840][753]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.28-20.23.32:840][753]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.23.32:840][753]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.28-20.23.33:679][816]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.23.33:726][816]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.23.33:726][816]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.23.33:726][816]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.23.33:726][816]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.23.33:726][816]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.28-20.23.34:588][845]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.28-20.23.35:100][866]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.28-20.23.35:166][869]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.28-20.23.35:330][877]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.28-20.23.36:081][910]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.28-20.23.36:246][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.28-20.23.36:570][933]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.28-20.23.36:736][941]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.28-20.23.36:996][953]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.28-20.23.37:035][954]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.02.28-20.23.37:036][954]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.02.28-20.23.37:036][954]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.28-20.23.37:036][954]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.28-20.23.37:036][954]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.23.37:036][954]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.28-20.23.39:700][136]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.23.39:716][136]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.23.39:737][137]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.23.39:737][137]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.23.39:737][137]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.23.39:737][137]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.23.40:604][178]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.23.40:649][178]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.23.40:674][178]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.28-20.23.41:157][195]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.28-20.23.41:205][197]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.28-20.23.41:371][206]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.28-20.23.42:118][232]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.23.42:169][232]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.28-20.23.42:169][232]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.28-20.23.42:402][240]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.02.28-20.23.42:486][244]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.28-20.23.43:339][280]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.28-20.23.43:747][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.28-20.23.43:818][302]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.28-20.23.44:135][316]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.28-20.23.44:788][341]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.28-20.23.45:571][379]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.02.28-20.23.45:571][379]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.02.28-20.23.45:571][379]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.28-20.23.45:571][379]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.28-20.23.45:571][379]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.23.45:571][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.28-20.23.48:895][646]LogMaterialEditor: Applying material M_TestGround
+[2020.02.28-20.23.51:008][646]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.23.51:043][646]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.23.51:043][646]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.23.51:043][646]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.23.51:043][646]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.28-20.23.51:090][646]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.23.51:219][646]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.02.28-20.23.51:291][646]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.28-20.23.52:824][646]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.02.28-20.23.52:824][646]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.02.28-20.23.52:824][646]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.02.28-20.23.52:824][646]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.02.28-20.23.52:824][646]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.02.28-20.23.52:824][646]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.02.28-20.23.52:824][646]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.02.28-20.23.52:824][646]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.02.28-20.23.52:824][646]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.28-20.23.52:824][646]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.02.28-20.23.52:824][646]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.02.28-20.23.52:829][646]TextureStreamingBuild: Display: Compiling optional shaders took 1.580 seconds.
+[2020.02.28-20.23.52:907][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.02.28-20.23.53:691][669]LogMaterialEditor: Saving and Compiling material M_TestGround
+[2020.02.28-20.23.55:294][669]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.28-20.23.55:294][669]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.28-20.23.55:294][669]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.28-20.23.55:362][669]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/M_TestGround28BB51F14D32A77DE1FDCF8053F005FE.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Materials/TestMaterials/M_TestGround.uasset'
+[2020.02.28-20.23.55:425][669]AssetCheck: New page: Asset Save: M_TestGround
+[2020.02.28-20.23.55:425][669]LogContentValidation: Display: Validating Material /Game/Materials/TestMaterials/M_TestGround.M_TestGround
+[2020.02.28-20.23.55:426][669]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.02.28-20.23.55:426][669]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.02.28-20.23.55:426][669]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.28-20.23.55:426][669]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.28-20.23.55:426][669]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.23.55:426][669]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.28-20.24.01:169][  9]LogMaterial: Display: Material /Game/Materials/TestMaterials/M_TestGround.M_TestGround needed to have new flag set bUsedWithStaticLighting !
+[2020.02.28-20.24.01:202][  9]LogMaterial: Display: Material /Engine/Transient.M_TestGround needed to have new flag set bUsedWithStaticLighting !
+[2020.02.28-20.24.01:236][  9]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.24.01:276][  9]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.28-20.24.01:276][  9]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.02.28-20.24.01:276][  9]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.28-20.24.01:276][  9]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.28-20.24.01:276][  9]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.24.02:810][ 66]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.02.28-20.24.02:904][ 70]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.02.28-20.24.02:943][ 72]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.02.28-20.24.02:983][ 74]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.02.28-20.24.03:751][109]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.02.28-20.24.03:908][116]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.02.28-20.24.04:400][133]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.02.28-20.24.04:501][136]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.02.28-20.24.04:940][151]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.02.28-20.24.05:384][166]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.02.28-20.24.05:480][167]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.24.05:706][178]LogMaterialEditor: Saving and Compiling material M_TestGround
+[2020.02.28-20.24.05:875][178]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/M_TestGroundB59203FF42B42B402E8ACD8C42FC8490.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Materials/TestMaterials/M_TestGround.uasset'
+[2020.02.28-20.24.05:919][178]AssetCheck: New page: Asset Save: M_TestGround
+[2020.02.28-20.24.05:919][178]LogContentValidation: Display: Validating Material /Game/Materials/TestMaterials/M_TestGround.M_TestGround
+[2020.02.28-20.24.09:377][313]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.02.28-20.24.10:841][379]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.28-20.24.11:210][397]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.28-20.24.12:152][441]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.28-20.24.12:817][471]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.02.28-20.24.12:818][471]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.02.28-20.24.12:818][471]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.02.28-20.24.12:818][471]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.28-20.24.12:818][471]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.28-20.24.12:818][471]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.24.12:818][471]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.28-20.24.16:753][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.28-20.24.33:816][816]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.24.33:936][816]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.24.33:967][817]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.28-20.24.33:967][817]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.02.28-20.24.33:967][817]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.28-20.24.33:967][817]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.28-20.24.34:982][879]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.24.35:118][879]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.24.36:238][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.02.28-20.24.36:451][925]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.02.28-20.24.36:512][928]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.28-20.24.36:512][928]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.24.37:758][979]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.24.37:792][979]LogMaterialEditor: Applying material M_TestGround
+[2020.02.28-20.24.39:365][979]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.02.28-20.24.39:366][979]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.02.28-20.24.39:366][979]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.28-20.24.39:366][979]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.28-20.24.39:366][979]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.28-20.24.39:366][979]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.02.28-20.24.39:366][979]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.28-20.24.39:366][979]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.02.28-20.24.39:366][979]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.02.28-20.24.39:406][979]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.24.39:555][979]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.28-20.24.39:636][979]LogMaterial: Display: Missing cached shader map for material M_TestGround, compiling. 
+[2020.02.28-20.24.39:892][979]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.02.28-20.24.39:892][979]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.28-20.24.39:947][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.28-20.24.40:164][979]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2020.02.28-20.24.40:184][979]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.28-20.24.41:860][979]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2020.02.28-20.24.41:860][979]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2020.02.28-20.24.41:860][979]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.02.28-20.24.41:860][979]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2020.02.28-20.24.41:861][979]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.02.28-20.24.41:861][979]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2020.02.28-20.24.41:861][979]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.02.28-20.24.41:861][979]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.02.28-20.24.41:861][979]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.02.28-20.24.41:861][979]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.02.28-20.24.41:861][979]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.02.28-20.24.41:861][979]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.02.28-20.24.41:866][979]TextureStreamingBuild: Display: Compiling optional shaders took 1.702 seconds.
+[2020.02.28-20.24.41:918][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.28-20.24.42:007][980]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.02.28-20.24.43:324][ 33]LogMaterialEditor: Saving and Compiling material M_TestGround
+[2020.02.28-20.24.46:350][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.28-20.24.46:350][ 33]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.28-20.24.46:351][ 33]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.28-20.24.46:351][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.28-20.24.46:417][ 33]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/M_TestGround860A06C0471E3D98F6E96AA82F585441.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Materials/TestMaterials/M_TestGround.uasset'
+[2020.02.28-20.24.46:453][ 33]AssetCheck: New page: Asset Save: M_TestGround
+[2020.02.28-20.24.46:453][ 33]LogContentValidation: Display: Validating Material /Game/Materials/TestMaterials/M_TestGround.M_TestGround
+[2020.02.28-20.24.46:458][ 33]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.02.28-20.24.46:459][ 33]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2020.02.28-20.24.46:459][ 33]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.02.28-20.24.46:459][ 33]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.28-20.24.46:459][ 33]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.28-20.24.46:459][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.28-20.24.46:459][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.28-20.24.53:542][483]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-20.24.53:567][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-20.24.53:567][483]PIE: New page: PIE session: L_Test (28.02.2020, 22:24:53)
+[2020.02.28-20.24.53:568][483]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_Test
+[2020.02.28-20.24.53:571][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003010s)
+[2020.02.28-20.24.53:572][483]LogAIModule: Creating AISystem for world L_Test
+[2020.02.28-20.24.53:573][483]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2020.02.28-20.24.53:573][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_Test.L_Test to /Game/Levels/UEDPIE_0_L_Test.L_Test (0.004520s)
+[2020.02.28-20.24.53:608][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.02.28-20.24.53:611][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.28-20.24.53:611][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.28-20.24.53:611][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.28-20.24.53:611][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.28-20.24.53:611][483]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.28-20.24.53:611][483]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.28-20.24.53:611][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.28-20.24.53:611][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.28-20.24.53:612][483]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.28-20.24.53:612][483]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.28-20.24.53:616][483]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.28-20.24.53:616][483]LogAudioMixer: Display: Name: Lautsprecher (Realtek High Definition Audio)
+[2020.02.28-20.24.53:616][483]LogAudioMixer: Display: Is Default: Yes
+[2020.02.28-20.24.53:616][483]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.28-20.24.53:616][483]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.28-20.24.53:616][483]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.28-20.24.53:616][483]LogAudioMixer: Display: Channel Order:
+[2020.02.28-20.24.53:616][483]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.28-20.24.53:616][483]LogAudioMixer: Display: 1: FrontRight
+[2020.02.28-20.24.53:632][483]LogAudioMixer: Display: Using Audio Device Lautsprecher (Realtek High Definition Audio)
+[2020.02.28-20.24.53:659][483]LogInit: FAudioDevice initialized.
+[2020.02.28-20.24.53:665][483]LogLoad: Game class is 'BP_GameMode_C'
+[2020.02.28-20.24.53:666][483]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_Test.L_Test up for play (max tick rate 0) at 2020.02.28-21.24.53
+[2020.02.28-20.24.53:667][483]LogWorld: Bringing up level for play took: 0.000593
+[2020.02.28-20.24.53:667][483]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2020.02.28-20.24.53:669][483]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2020.02.28-20.24.53:673][483]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.24.53:673][483]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.24.53:673][483]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.24.53:673][483]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.24.53:674][483]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2020.02.28-20.24.53:674][483]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_L_Test 0,611
+[2020.02.28-20.24.55:842][633]Cmd: LevelEditor.ToggleImmersive
+[2020.02.28-20.25.17:154][827]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-20.25.17:163][827]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.28-20.25.17:193][827]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.28-20.25.17:194][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-20.25.17:194][827]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_Test
+[2020.02.28-20.25.17:195][827]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-20.25.17:195][827]LogWorld: UWorld::CleanupWorld for L_Test, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.25.17:196][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.25.17:218][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-20.25.17:225][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.25.17:292][827]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-20.25.17:296][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-20.25.17:301][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.02.28-20.25.17:330][828]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2020.02.28-20.25.26:491][106]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2020.02.28-20.25.52:896][263]BlueprintLog: New page: Compile BP_GameMode
+[2020.02.28-20.25.53:129][263]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.02.28-20.25.53:597][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2020.02.28-20.25.53:894][291]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/BP_GameModeB400D5F04DD0A22D968CC7BAB95A1571.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_GameMode.uasset'
+[2020.02.28-20.25.53:907][291]AssetCheck: New page: Asset Save: BP_GameMode
+[2020.02.28-20.25.53:908][291]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2020.02.28-20.26.02:113][ 45]BlueprintLog: New page: Compile BP_GameMode
+[2020.02.28-20.26.02:377][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.02.28-20.26.02:731][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2020.02.28-20.26.02:761][ 71]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/BP_GameMode419B749943169C9031003C882A788A2D.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_GameMode.uasset'
+[2020.02.28-20.26.02:774][ 71]AssetCheck: New page: Asset Save: BP_GameMode
+[2020.02.28-20.26.02:775][ 71]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2020.02.28-20.26.40:482][745]BlueprintLog: New page: Compile BP_GameMode
+[2020.02.28-20.26.40:737][745]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.02.28-20.26.41:100][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2020.02.28-20.26.41:132][769]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/BP_GameMode9C4BE0BF49E9C53AC80313BE851AE3F3.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_GameMode.uasset'
+[2020.02.28-20.26.41:148][769]AssetCheck: New page: Asset Save: BP_GameMode
+[2020.02.28-20.26.41:148][769]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2020.02.28-20.26.48:306][265]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Camera_Fly.BP_Camera_Fly
+[2020.02.28-20.26.52:284][490]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player_Fly.BP_Player_Fly
+[2020.02.28-20.26.55:709][687]BlueprintLog: New page: Compile BP_Player_Fly
+[2020.02.28-20.26.55:989][687]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.02.28-20.26.56:365][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player_Fly" FILE="../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_Player_Fly.uasset" SILENT=true
+[2020.02.28-20.26.56:497][703]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/BP_Player_Fly67B95B354F53C9A17D24B0867B82A74E.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Blueprints/BP_Player_Fly.uasset'
+[2020.02.28-20.26.56:510][703]AssetCheck: New page: Asset Save: BP_Player_Fly
+[2020.02.28-20.26.56:510][703]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Player_Fly.BP_Player_Fly
+[2020.02.28-20.26.56:932][731]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.26.56:932][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.26.57:371][763]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.26.57:371][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.26.57:776][791]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.28-20.26.57:776][791]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.26.57:776][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.26.58:156][820]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.28-20.26.58:156][820]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-20.26.58:156][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-20.27.01:219][  6]MapCheck: New page: Map Check
+[2020.02.28-20.27.01:250][  6]LightingResults: New page: Lighting Build - 28.02.2020, 22:27:01
+[2020.02.28-20.27.01:328][  6]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.28-20.27.01:332][  6]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.28-20.27.01:333][  6]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.28-20.27.01:334][  6]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.28-20.27.01:334][  6]LogSwarmInterface: [TryOpenConnection] Local Process ID is 328
+[2020.02.28-20.27.06:408][  6]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.28-20.27.06:408][  6]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.28-20.27.06:408][  6]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.28-20.27.06:408][  6]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.28-20.27.06:408][  6]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.28-20.27.06:408][  6]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.28-20.27.06:922][  6]LogEditorBuildUtils: Build time 0:05
+[2020.02.28-20.27.06:935][  6]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TestGround, compiling. 
+[2020.02.28-20.27.06:983][  6]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.28-20.27.06:983][  6]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.28-20.27.06:983][  6]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TestGround, compiling. 
+[2020.02.28-20.27.07:017][  7]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.28-20.27.07:017][  7]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.28-20.27.08:018][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.02.28-20.27.14:225][136]Job is a success!
+[2020.02.28-20.27.14:560][137]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2020.02.28-20.27.14:560][137]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.28-20.27.14:560][137]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2020.02.28-20.27.14:560][137]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.28-20.27.14:560][137]LogVolumetricLightmapImport:          0: 3.2% covering 100.0% of volume
+[2020.02.28-20.27.14:560][137]LogVolumetricLightmapImport:          1: 9.7% covering 4.7% of volume
+[2020.02.28-20.27.14:560][137]LogVolumetricLightmapImport:          2: 87.1% covering 0.7% of volume
+[2020.02.28-20.27.14:560][137]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.28-20.27.14:560][137]LogVolumetricLightmapImport:          L_Test 			 31 bricks 	 100.0% (Persistent Level)
+[2020.02.28-20.27.14:639][137]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 128X64)
+[2020.02.28-20.27.14:639][137]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2020.02.28-20.27.14:639][137]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2020.02.28-20.27.14:639][137]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X64)
+[2020.02.28-20.27.14:674][137]Lightmass on DESKTOP-CMHHPDR: 2.97 sec total, 1.23 sec importing, 51 ms setup, 57 ms photons, 1.20 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 8.41 sec total, 68 ms processing.
+[2020.02.28-20.27.14:889][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.02.28-20.27.14:932][137]LogStaticLightingSystem: Illumination: 13.5 sec (25 ms encoding lightmaps, 48 ms encoding shadowmaps)
+[2020.02.28-20.27.14:932][137]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.28-20.27.14:932][137]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.02.28-20.27.15:413][137]DumpUnbuiltLightIteractions
+[2020.02.28-20.27.15:413][137]Lights with unbuilt interactions: 0
+[2020.02.28-20.27.15:413][137]
+[2020.02.28-20.27.15:413][137]Primitives with unbuilt interactions: 0
+[2020.02.28-20.27.15:631][138]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.28-20.27.15:631][138]MapCheck: New page: L_Test - 28.02.2020, 22:27:15
+[2020.02.28-20.27.15:631][138]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,297ms to complete.
+[2020.02.28-20.27.20:423][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.02.28-20.27.21:871][419]LogSlate: Window 'Save Content' being destroyed
+[2020.02.28-20.27.21:937][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.02.28-20.27.22:027][419]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/L_TestD9DB3C804F52AF2AAC72348FDE18CEEC.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Levels/L_Test.umap'
+[2020.02.28-20.27.22:083][419]LogFileHelpers: Saving map 'L_Test' took 0.180
+[2020.02.28-20.27.22:083][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/L_Test_BuiltData" FILE="../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Levels/L_Test_BuiltData.uasset" SILENT=true
+[2020.02.28-20.27.22:150][419]LogSavePackage: Moving '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Saved/L_Test_BuiltData37BC16D64A2A2F6015531BBD276CF660.tmp' to '../../../../../MyProjects/ArcadeBattleRoyale/ArcadeBattleRoyale/ArcadeBattleRoyale/Content/Levels/L_Test_BuiltData.uasset'
+[2020.02.28-20.27.22:469][419]LogSlate: Window 'ArcadeBattleRoyale - Unreal Editor' being destroyed
+[2020.02.28-20.27.22:518][419]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.28-20.27.26:064][419]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.28-20.27.26:064][419]LogContentValidation: Display: Validating World /Game/Levels/L_Test.L_Test
+[2020.02.28-20.27.26:064][419]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/L_Test_BuiltData.L_Test_BuiltData
+[2020.02.28-20.27.26:083][420]Cmd: QUIT_EDITOR
+[2020.02.28-20.27.26:104][420]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.02.28-20.27.26:510][420]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.02.28-20.27.26:788][420]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-20.27.34:976][420]LogExit: Preparing to exit.
